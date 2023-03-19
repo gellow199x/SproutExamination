@@ -1,0 +1,17 @@
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\net5.0\Sprout.Exam.DataAccess.deps.json
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\net5.0\Sprout.Exam.DataAccess.dll
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\net5.0\ref\Sprout.Exam.DataAccess.dll
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\net5.0\Sprout.Exam.DataAccess.pdb
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\net5.0\Sprout.Exam.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\net5.0\Sprout.Exam.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\net5.0\Sprout.Exam.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\net5.0\Sprout.Exam.DataAccess.AssemblyInfo.cs
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\net5.0\Sprout.Exam.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\net5.0\Sprout.Exam.DataAccess.dll
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\net5.0\ref\Sprout.Exam.DataAccess.dll
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\net5.0\Sprout.Exam.DataAccess.pdb
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\net5.0\Sprout.Exam.Business.dll
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\net5.0\Sprout.Exam.Common.dll
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\net5.0\Sprout.Exam.Business.pdb
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\bin\Debug\net5.0\Sprout.Exam.Common.pdb
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.DataAccess\obj\Debug\net5.0\Sprout.Exam.DataAccess.csproj.CopyComplete

@@ -1,0 +1,11 @@
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Infrastructure\bin\Debug\net5.0\Sprout.Exam.Infrastructure.deps.json
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Infrastructure\bin\Debug\net5.0\Sprout.Exam.Infrastructure.dll
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Infrastructure\bin\Debug\net5.0\ref\Sprout.Exam.Infrastructure.dll
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Infrastructure\bin\Debug\net5.0\Sprout.Exam.Infrastructure.pdb
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Infrastructure\obj\Debug\net5.0\Sprout.Exam.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Infrastructure\obj\Debug\net5.0\Sprout.Exam.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Infrastructure\obj\Debug\net5.0\Sprout.Exam.Infrastructure.AssemblyInfo.cs
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Infrastructure\obj\Debug\net5.0\Sprout.Exam.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Infrastructure\obj\Debug\net5.0\Sprout.Exam.Infrastructure.dll
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Infrastructure\obj\Debug\net5.0\ref\Sprout.Exam.Infrastructure.dll
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Infrastructure\obj\Debug\net5.0\Sprout.Exam.Infrastructure.pdb

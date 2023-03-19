@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "U1W8V3L2dsCTy0WyepUAuYrDL5fp18At84eu1WmNsx5MKTtZgnGdL9V3VdUIoGiV6TPcY1vy5r2xSQIwwcA9kQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Angelo\\Desktop\\NewExam\\Sprout.Exam.WebApp\\Sprout.Exam.Business\\Sprout.Exam.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Angelo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Angelo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Angelo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Angelo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Angelo\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

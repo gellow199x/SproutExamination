@@ -1,0 +1,12 @@
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Common\bin\Debug\net5.0\Sprout.Exam.Common.deps.json
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Common\bin\Debug\net5.0\Sprout.Exam.Common.dll
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Common\bin\Debug\net5.0\ref\Sprout.Exam.Common.dll
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Common\bin\Debug\net5.0\Sprout.Exam.Common.pdb
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Common\obj\Debug\net5.0\Sprout.Exam.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Common\obj\Debug\net5.0\Sprout.Exam.Common.AssemblyInfoInputs.cache
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Common\obj\Debug\net5.0\Sprout.Exam.Common.AssemblyInfo.cs
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Common\obj\Debug\net5.0\Sprout.Exam.Common.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Common\obj\Debug\net5.0\Sprout.Exam.Common.dll
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Common\obj\Debug\net5.0\ref\Sprout.Exam.Common.dll
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Common\obj\Debug\net5.0\Sprout.Exam.Common.pdb
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Common\obj\Debug\net5.0\Sprout.Exam.Common.csproj.AssemblyReference.cache

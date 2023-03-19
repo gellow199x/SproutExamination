@@ -1,0 +1,15 @@
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\net5.0\Sprout.Exam.Business.deps.json
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\net5.0\Sprout.Exam.Business.dll
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\net5.0\ref\Sprout.Exam.Business.dll
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\net5.0\Sprout.Exam.Business.pdb
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\net5.0\Sprout.Exam.Common.dll
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Business\bin\Debug\net5.0\Sprout.Exam.Common.pdb
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\net5.0\Sprout.Exam.Business.csproj.AssemblyReference.cache
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\net5.0\Sprout.Exam.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\net5.0\Sprout.Exam.Business.AssemblyInfoInputs.cache
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\net5.0\Sprout.Exam.Business.AssemblyInfo.cs
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\net5.0\Sprout.Exam.Business.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\net5.0\Sprout.Exam.Business.csproj.CopyComplete
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\net5.0\Sprout.Exam.Business.dll
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\net5.0\ref\Sprout.Exam.Business.dll
+C:\Users\Angelo\Desktop\NewExam\Sprout.Exam.WebApp\Sprout.Exam.Business\obj\Debug\net5.0\Sprout.Exam.Business.pdb
