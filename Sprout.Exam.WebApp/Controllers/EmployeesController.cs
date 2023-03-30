@@ -125,17 +125,7 @@ namespace Sprout.Exam.WebApp.Controllers
         /// <param name="workedDays"></param>
         /// <returns></returns>
         [HttpPost("{id}/calculate")]
-        //public async Task<IActionResult> Calculate(int id, decimal absentDays, decimal workedDays)
-        //{
-
-
-        //    //var result = await _sproutExamBusinessService.CalculateSalary(salary);
-        //    //if(result == 0)
-        //    //{
-        //    //    NotFound("Employee Type not found");
-        //    //}
-        //  return   Ok(50000);
-        //}
+      
 
         public async  Task<IActionResult> Calculate(int id, [FromBody] SalaryEntity salary)
         {
